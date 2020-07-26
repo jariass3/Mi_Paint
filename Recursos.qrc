@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/anadir (1).png</file>
+        <file>Recursos/anchura.png</file>
+        <file>Recursos/dibujar (1).png</file>
+        <file>Recursos/dibujar.png</file>
+        <file>Recursos/formar.png</file>
+        <file>Recursos/guardar-el-archivo.png</file>
+        <file>Recursos/lapiz.png</file>
+        <file>Recursos/paleta-de-color.png</file>
+        <file>Recursos/pintar.png</file>
+        <file>Recursos/rectangulo.png</file>
+        <file>Recursos/Back 2.ico</file>
+    </qresource>
+</RCC>
